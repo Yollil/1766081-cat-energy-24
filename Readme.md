@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Иоланта Романова](https://up.htmlacademy.ru/adaptive/24/user/1766081).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Доровлев](https://up.htmlacademy.ru/profession/frontender/12/htmlcss/user/167185).
 
 ---
 
